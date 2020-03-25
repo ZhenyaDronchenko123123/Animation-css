@@ -1,0 +1,11 @@
+ .block-animation {
+          width: 130px;
+          height: 130px;
+          border-radius: 100px;
+          background-color: #2196F3;
+          transition: background-color 2s linear;
+        }
+        
+        .block-animation:hover {
+          background-color: #3F51B5;
+        }

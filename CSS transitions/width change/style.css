@@ -1,0 +1,10 @@
+   .animation-block {
+          width: 130px;
+          height: 130px;
+          background-color: #2196F3;
+transition: width 1s cubic-bezier(0, 0, 1, 1) 500ms;
+        }
+        
+        .animation-block:hover {
+          width: 300px;
+        }
